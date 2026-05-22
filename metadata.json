@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: POWERSURGE",
+  "description": "Premium futuristic dark luxury gym landing page with dynamic BMI calculator, modular plans, and animated interactive elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
